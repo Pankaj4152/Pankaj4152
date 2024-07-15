@@ -8,7 +8,8 @@
 
 
 Connect with me:
-[LinkedIn](www.linkedin.com/in/Pankaj4152)
+
+[LinkedIn](www.linkedin.com/in/Pankaj4152/)
 
 [LeetCode](https://leetcode.com/u/Pankaj4152/)
 <!--
