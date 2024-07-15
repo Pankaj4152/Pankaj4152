@@ -8,7 +8,8 @@
 
 
 Connect with me:
-[LinkedIn](www.linkedin.com/in/pankaj-kumar-goyal-a5821a291)
+[LinkedIn](www.linkedin.com/in/Pankaj4152)
+
 [LeetCode](https://leetcode.com/u/Pankaj4152/)
 <!--
 **Pankaj4152/Pankaj4152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
