@@ -1,4 +1,3 @@
-# **Hi there 👋, I'm Pankaj Kumar Goyal**
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Goyal</h1>
 <h3 align="center">Currently pursuing BE at MBM University Jodhpur, Intrested in AI</h3>
 
