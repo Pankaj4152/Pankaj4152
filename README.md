@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Goyal</h1>
-<h3 align="center">Currently pursuing Bachelor of Engineering in Computer Science at MBM University Jodhpur, Intrested in AI</h3>
+<h3 align="center">Currently pursuing Bachelor of Engineering in Computer Science at MBM University Jodhpur, interested in AI</h3>
 
 
 - 🌱 I’m currently learning Machine Learning.
-- I know a bit of HTML, CSS and DSA also. 
-- 👯 I’m looking to collaborate on Machine Learning Projects.
+- I also know HTML, CSS, and DSA. 
+- 👯 Excited to connect with fellow enthusiasts for Machine Learning Projects and other exciting ideas and projects. Let's collaborate and make great things happen!
 
 
 Connect with me:
