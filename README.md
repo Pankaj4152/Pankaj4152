@@ -12,6 +12,8 @@ Connect with me:
 [LinkedIn](https://www.linkedin.com/in/Pankaj4152)
 
 [LeetCode](https://leetcode.com/u/Pankaj4152/)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Pankaj4152&abbreviated=true)]
 <!--
 **Pankaj4152/Pankaj4152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
