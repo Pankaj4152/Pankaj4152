@@ -4,19 +4,16 @@
 
 
 <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/pankaj4152/)">
+  <a href="https://www.linkedin.com/in/pankaj4152/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-github-URL">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="[your-leetcode-URL](https://leetcode.com/u/Pankaj4152/)">
+  <a href="https://leetcode.com/u/Pankaj4152/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="[your-medium-URL](https://medium.com/@pankajgoyal4152)">
+  <a href="https://medium.com/@pankajgoyal4152">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="[your-kaggle-URL](https://www.kaggle.com/pankajgoyal4152)">
+  <a href="https://www.kaggle.com/pankajgoyal4152">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
@@ -50,7 +47,7 @@
 
 - 📚 Currently learning DSA, advancing my AI/ML skills, and exploring real-world applications of RAG and chatbot development.
 
-- 📫 Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/pankaj4152/))
+- 📫 Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj4152/)
 
 
 
