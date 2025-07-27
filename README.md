@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Waving hand GIF"/> </p>
+
+<h1 align="center">Hey there! I'm Pankaj Kumar Goyal 👋</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23007bff&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Pankaj+Goyal;AI/ML+Enthusiast;Future+Innovator;Blogger+&amp;+Learner"></p>
-<h3 align="center"> Pursuing B.E. Computer Science @ MBM University, Jodhpur | Passionate about AI & Machine Learning </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7BC35&center=true&vCenter=true&width=490&lines=AI+%7C+ML+%7C+Dev+%7C+Student+%7C+Builder;Innovating+the+Future+of+AI+&amp;+Tech" alt="Typing SVG Banner"/>
+</p>
+
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Pankaj4152&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/pankaj4152/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,116 +22,155 @@
   <a href="https://www.kaggle.com/pankajgoyal4152">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-</p>
-
----
-
-## :woman_technologist: About Me
-
-- 🎓 I'm currently pursuing a **Bachelor of Engineering in Computer Science** at **MBM University, Jodhpur**.
-
-- 🤖 My passion lies in **Artificial Intelligence and Machine Learning**, and I'm constantly exploring their real-world applications.
-
-- 🔭 I'm actively working on **developing robust RAG systems and advanced chatbots**, pushing the boundaries of conversational AI. - 📚 I'm currently diving deep into **Data Structures and Algorithms (DSA)**, further advancing my **AI/ML skills**, and exploring cutting-edge research in **Generative AI**.
-
-- 📝 In my free time, I love to **write blogs on Medium** where I break down complex AI/ML topics to share knowledge and document my learning journey. You can find them here: [Medium Profile](https://medium.com/@pankajgoyal4152)
-
-- 💬 Feel free to ask me about **AI/ML applications, RAG and chatbot development, DSA, or anything related to the latest trends in tech!**
-
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj4152/).
-
-- ⚡ Fun fact: **I can spend hours debating the ethics of AI, and I genuinely believe in a future powered by intelligent machines!**
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY ;)</b>
-
-### 📋 Programming Languages
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-  </p>
-
-### 📈 AI/ML Frameworks & Libraries
-
-<p align="left">
-  <a href="https://numpy.org" target="_blank">
-    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
-  </a>
-  <a href="https://matplotlib.org" target="_blank">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23BA4120.svg?logo=matplotlib&logoColor=white">
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white">
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white">
-  </a>
-  </p>
-
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
-  </p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Competitive Programming :) </b>
-<br>
-
-<p align="left">
-  <a href="https://leetcode.com/u/Pankaj4152/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats!</b>
-
-<p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Pankaj4152&show_icons=true&locale=en&line_height=20&title_color=0A0FFF&icon_color=0A0FFF&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pankaj's GitHub Stats" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj4152&theme=dark&background=000000" width="370" alt="Pankaj's GitHub Streak"/>
-</p>
-<br clear="both">
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj4152&theme=github_dark&hide_border=true" align="left" width="450" alt="Pankaj's Profile Details"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankaj4152&layout=compact&theme=vision-friendly-dark" align="center" width="300" alt="Pankaj's Top Languages"/>
-</p>
-
----
-
-## :mailbox: Get In Touch
-<div align="center">
-<table border="0">
-  <tr>
-    <td> <a href="https://www.linkedin.com/in/pankaj4152/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Pankaj Goyal-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </td>
-    <td> <a href="https://medium.com/@pankajgoyal4152" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pankaj Goyal-%231DA1F2?style=for-the-badge&logo=medium&logoColor=white"> </a> </td>
-    <td> <a href="mailto:your_email@example.com" target="_blank">  <img src="https://img.shields.io/badge/Email-Connect-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </td>
-    </tr>
-</table>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pankaj4152&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Developer working" width="450" src="https://media.giphy.com/media/qgM1JpX8tY00xJgZqQ/giphy.gif"> I'm a **3rd-year Computer Science Engineering student** at **MBM University, Jodhpur**, driven by a deep passion for **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My journey is all about **building impactful solutions** and **creating useful tools** that solve real-world problems.
+
+**📍 Currently based in Jodhpur, Rajasthan, India.**
+
+I'm a firm believer in **"learning in public"**, constantly exploring new concepts, sharing my knowledge, and contributing to the open-source community. Whether it's **RAG & chatbot development**, automating complex tasks, or designing intuitive user interfaces, I love blending cutting-edge tech with practical applications.
+
+---
+
+## 🚀 What I'm Building & Focusing On
+
+### Current Projects:
+
+- 🔍 **CoolGuard**: My entry for Walmart’s Sparkathon, this is an **AI-powered energy-smart refrigeration system** designed for optimal efficiency.
+- 🔏 **SDEPostgresAgent**: A sophisticated **semantic scanning agent** that efficiently detects sensitive information within structured data formats like CSV and JSON, leveraging advanced semantic models and regex patterns.
+- 💬 **MindMate**: An empathetic **mental health chatbot and journaling companion**, built with the power of **LangChain and Large Language Models (LLMs)**.
+- 📸 **GallerySearch**: An **AI-powered image management system** that automatically captions and tags personal photo albums, making them easily searchable.
+- 🧾 **TrialInsights**: An **NLP summarizer for medical trials**, focusing on Named Entity Recognition (NER), Question-Answering (QA) pipelines, and risk detection.
+- 📦 **Internal Utility Tools**: Constantly building and contributing to open-source libraries for **AI/Ops automation**.
+
+### Academic & Mentorship Highlights:
+
+- Achieved **98%** in both my Higher Secondary and Senior Secondary Boards.
+- An **active learner**, consistently improving my understanding of algorithms and system design.
+- Proud to **mentor students** at local coding clubs, keenly helping juniors with ML and RAG concepts.
+
+---
+
+## 🛠️ My Tech Stack & Toolbelt
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
+### **AI & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-BA4120?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</p>
+
+### **Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### **Cloud & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### **Development Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</p>
+
+---
+
+## 📚 What I'm Exploring & Learning
+
+My learning journey is continuous and focused on the cutting edge of AI:
+
+- **Large Language Models (LLMs)** and sophisticated **LangChain agents**.
+- Building robust and efficient **Retrieval-Augmented Generation (RAG) pipelines**.
+- Delving into **System Design**, optimizing **low-latency backends**, and mastering **container orchestration** with Docker and Kubernetes.
+- A strong commitment to **Ethical AI**, focusing on bias mitigation and explainability in ML models.
+- Developing strong **technical writing** skills through blogs and outreach, aiming to simplify complex AI/ML concepts for beginners.
+
+---
+
+## ✍️ My Blogs & Technical Insights
+
+I write to simplify complex ideas and share my learning journey with the community.
+Follow my insights on [**Medium »**](https://medium.com/@pankajgoyal4152)
+
+### Featured Posts:
+
+- "Introduction to RAG & Using LangChain for QA Tools"
+- "Neural Networks from Scratch (MNIST Case Study)"
+
+### Upcoming Articles:
+
+- "Ethics, Bias, and Fairness in LLMs: A Developer's Perspective"
+- "Building AI SaaS Startups in India: Opportunities & Challenges"
+
+---
+
+## 📊 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj4152&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj4152&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🏆 **Girlscript Summer of Code 2024 Active Participant**
+- 📜 **Certifications**: AWS Certified Cloud Practitioner (in-progress), Various Coursera ML & NLP specializations.
+
+---
+
+## 🤝 Let’s Connect!
+
+I'm always excited to **collaborate on innovative AI projects, contribute to open-source initiatives, explore freelance opportunities, or discuss internships.** Feel free to reach out—I'd love to chat!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj4152/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourusername" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pankajgoyal4152@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Pankaj | 🔄 Last updated: July 28, 2025
+</p>
