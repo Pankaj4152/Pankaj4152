@@ -33,8 +33,7 @@ I can architect a platform from scratch, integrate multi-agent LLM workflows, bu
 # 📦 **Flagship Projects (with URLs)**
 
 ### **1️⃣ Issuenix / CertifyPro — Full SaaS Platform**
-👉 **Live:** https://issuenix.com/  
-👉 **Backend Repo (optional):** *(Add when ready)*  
+👉 **Live:** https://issuenix.com/   
 
 **Stack:** FastAPI, PostgreSQL, React.js, Docker, JWT Auth  
 **What I built:**
