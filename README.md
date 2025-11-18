@@ -22,117 +22,87 @@
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
+I build **real, production-grade systems** — not toy projects.  
+My strength is at the intersection of **AI/ML, backend engineering, and SaaS product development**.
 
-I'm a **hybrid AI/ML Engineer + Backend/Platform Developer** who can:
-
-- Build **end-to-end AI systems** (multi-agent LLM workflows, RAG, PII detection, inference services)  
-- Architect and ship **production-grade backend platforms** (auth, DB modeling, scalable APIs, ETL pipelines)
-- Build and deploy **full SaaS products** from scratch  
-- Design systems that hit the balance between **clean architecture, performance, and reliability**
-
-I don't just train models.  
-I don't just write backend APIs.  
-I build **systems that actually ship**, work under load, and solve real-world problems.
+I can architect a platform from scratch, integrate multi-agent LLM workflows, build scalable APIs, handle cloud deployments, and design systems that actually work under load.
 
 ---
 
-## 🔥 Signature Projects (This Is What I’m Known For)
+# 📦 **Flagship Projects (with URLs)**
 
 ### **1️⃣ Issuenix / CertifyPro — Full SaaS Platform**
-**Tech:** Python, FastAPI, PostgreSQL, React.js, Docker, CI/CD
+👉 **Live:** https://issuenix.com/  
+👉 **Backend Repo (optional):** *(Add when ready)*  
 
-A full SaaS product I built end-to-end:
-
-- Database schema + scalable backend architecture  
+**Stack:** FastAPI, PostgreSQL, React.js, Docker, JWT Auth  
+**What I built:**
+- Backend architecture + DB schema  
 - Authentication, authorization, RBAC  
-- Certificate generation + secure verification engine  
-- Models for orgs/events/users/certificates  
-- File processing & storage pipelines  
-- Deployment, monitoring, infra, performance improvements  
-- Complete frontend (React) + backend  
-- Agile planning, MVP design, feature roadmapping  
-- AI assistant "Sonia" (Gemini + RAG) for automating workflows  
+- Certificate generation & secure verification engine  
+- File processing + storage pipelines  
+- Full frontend + backend integration  
+- Deployment + CI/CD  
+- AI assistant **Sonia** (Gemini + RAG) for workflow automation  
 
-**This is full-stack + backend + product engineering — shipped in the real world.**
+> This is a complete SaaS platform — built end-to-end.
 
 ---
 
-### **2️⃣ AI-Insight-Pro — Data Engineering + Backend Platform (with LLM add-ons)**
-**Tech:** Python, FastAPI, Postgres/MySQL/BigQuery/Mongo, GCP/AWS/Azure, ChromaDB
+### **2️⃣ AI-Insight-Pro — Data Engineering + Backend Platform**
+👉 **GitHub:** https://github.com/Pankaj4152/AI-Insight-Pro  
 
-Core engineering work:
-
+**Stack:** Python, FastAPI, BigQuery, MySQL, Postgres, MongoDB, ChromaDB  
+**Highlights:**  
 - Multi-database ingestion engine  
-- Metadata extraction, ETL-style pipelines  
-- Scanning services for risk/compliance workflows  
-- API design for dashboards + data access  
-- Query execution engine with safety constraints  
-- Cloud integrations across AWS/GCP/Azure  
-- RAG pipeline for policy lookups & context  
-- Multi-agent workflows (LLM-based but built on strong backend architecture)
-
-**This shows platform engineering, not toy ML notebooks.**
-
----
-
-### **3️⃣ Internal ML Library — High-Performance Inference Service**
-**Tech:** PyTorch, HF Transformers, ONNX (optional), FastAPI, Caching, Concurrency
-
-What I built:
-
-- Production-ready text generation + classification inference  
-- Thread-safe loaders, model pooling, shared cache  
-- GPU memory cleanup & optimization  
-- Scalable FastAPI microservices for multiple teams  
-- Reusable internal modules + versioning  
-
-**This is real engineering + ML systems performance optimization.**
-
----
-
-## 🛠 Tech Stack (The Stuff I Actually Use)
-
-### **Languages**
-- Python, C/C++, SQL  
-
-### **Backend / Platform**
-- FastAPI, Flask  
-- PostgreSQL, MySQL, MongoDB, BigQuery  
-- REST APIs, Authentication, RBAC  
-- Caching, concurrency, async systems  
-
-### **AI / ML / GenAI**
-- PyTorch, TensorFlow  
-- HuggingFace Transformers  
-- RAG (ChromaDB)  
+- ETL pipelines + metadata extraction  
+- Query execution service  
+- Cloud integrations (AWS/GCP/Azure)  
+- RAG pipeline for policy/reports  
 - Multi-agent LLM workflows (Gemini)  
-- Inference optimization  
-- PII/SDE detection pipelines  
 
-### **DevOps / Cloud**
-- Docker  
-- GitHub Actions  
-- Linux, Bash  
-- AWS / GCP (Compute + Storage)  
-
-### **Frontend (Useful for SaaS)**
-- React.js, TailwindCSS  
+> Backend-heavy, platform-focused, with optional LLM features.
 
 ---
 
-## 🧩 What I Like Building
-- Developer tools & internal platforms  
-- Scalable backend systems  
-- AI-augmented products (LLM-as-a-feature)  
-- Data ingestion + automation workflows  
-- SaaS MVPs with clean architecture  
-- Systems where performance *matters*  
+### **3️⃣ Internal ML Inference Library**
+👉 **GitHub:** https://github.com/Pankaj4152/mylibrary  
+
+**Stack:** PyTorch, HF Transformers, FastAPI  
+**Highlights:**  
+- High-performance text generation & classification  
+- Thread-safe loaders, GPU cleanup, caching  
+- Shared model pools for speed  
+- Reusable internal modules  
+
+> Production-grade inference system — your strongest ML systems project.
 
 ---
 
-## 📈 GitHub Stats
+# 🧠 **Technical Skills (Clean & Professional Table)**
 
+| Category | Skills |
+|---------|--------|
+| **Languages** | Python, C/C++, SQL |
+| **Backend / Platform** | FastAPI, Flask, PostgreSQL, MySQL, MongoDB, BigQuery, REST APIs, Auth, RBAC, Caching, Concurrency |
+| **AI / ML / GenAI** | PyTorch, TensorFlow, HuggingFace, Transformers (T5, DistilBART), RAG (ChromaDB), Multi-Agent LLM Workflows (Gemini), PII/SDE Pipelines |
+| **Cloud & DevOps** | Docker, GitHub Actions, AWS, GCP, Linux |
+| **Frontend (for SaaS)** | React.js, TailwindCSS |
+| **Other** | Agile/SCRUM, System Design Basics, CI/CD, Git |
+---
+
+# 🏗 What I Love Building
+- AI-augmented products  
+- Backend & platform systems  
+- SaaS applications with real users  
+- Scalable APIs + ingestion pipelines  
+- Multi-agent LLM tools  
+- Developer tools & internal infra  
+
+---
+
+# 📊 GitHub Stats
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=Pankaj4152&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj4152&theme=tokyonight&hide_border=true" />
@@ -140,8 +110,7 @@ What I built:
 
 ---
 
-## 📫 Connect with Me
-
+# 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj4152/">
     <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -154,7 +123,5 @@ What I built:
 ---
 
 ### ⭐ If you’re here to evaluate me:
-**I build real systems.  
-I ship fast.  
-I understand AI deeply but engineer like a backend dev.  
-If that’s what you need — let’s talk.**
+**I build fast, I ship real products, and I understand both AI and backend deeply.  
+If that’s the kind of engineer you need — let’s talk.**
