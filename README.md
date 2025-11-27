@@ -50,21 +50,17 @@ I can architect a platform from scratch, integrate multi-agent LLM workflows, bu
 ---
 
 ### **2️⃣ Smart Photo Finder (NexaAI) — AI-Powered Semantic Image Search**
-👉 **GitHub:** https://github.com/Pankaj4152/nexaai  
+👉 **GitHub:** https://github.com/Pankaj4152/smart-photo-finder  
 
 **Stack:** Python, Sentence-Transformers, FAISS, Pydantic, Embedding Pipelines  
 **What it does:**  
 A lightweight, offline-first **semantic image search engine** that retrieves images based on **meaning**, not filenames.
 
 **What I built:**  
-- Image embedding pipeline using **Sentence-Transformers / CLIP**  
-- **Vector search engine** using FAISS for fast similarity lookups  
+- Image embedding pipeline
+- **Vector search engine** for fast similarity lookups  
 - Batch image processing + folder-level embedding workflows  
-- Modular architecture:  
-  - `embedder/` – image → vector  
-  - `search/` – similarity search  
-  - `schemas/` – Pydantic models  
-  - `utils/` – supporting utilities  
+- Modular architecture. 
 - Extensible design (can become a FastAPI service or desktop/mobile backend)  
 - Fully offline, privacy-first photo organization system  
 
