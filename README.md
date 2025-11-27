@@ -49,7 +49,32 @@ I can architect a platform from scratch, integrate multi-agent LLM workflows, bu
 
 ---
 
-### **2️⃣ AI-Insight-Pro — Data Engineering + Backend Platform**
+### **2️⃣ Smart Photo Finder (NexaAI) — AI-Powered Semantic Image Search**
+👉 **GitHub:** https://github.com/Pankaj4152/nexaai  
+
+**Stack:** Python, Sentence-Transformers, FAISS, Pydantic, Embedding Pipelines  
+**What it does:**  
+A lightweight, offline-first **semantic image search engine** that retrieves images based on **meaning**, not filenames.
+
+**What I built:**  
+- Image embedding pipeline using **Sentence-Transformers / CLIP**  
+- **Vector search engine** using FAISS for fast similarity lookups  
+- Batch image processing + folder-level embedding workflows  
+- Modular architecture:  
+  - `embedder/` – image → vector  
+  - `search/` – similarity search  
+  - `schemas/` – Pydantic models  
+  - `utils/` – supporting utilities  
+- Extensible design (can become a FastAPI service or desktop/mobile backend)  
+- Fully offline, privacy-first photo organization system  
+
+> An end-to-end AI utility built on embeddings + vector search.
+
+
+
+---
+
+### **3️⃣ AI-Insight-Pro — Data Engineering + Backend Platform**
 👉 **GitHub:** https://github.com/Pankaj4152/AI-Insight-Pro  
 
 **Stack:** Python, FastAPI, BigQuery, MySQL, Postgres, MongoDB, ChromaDB  
@@ -65,7 +90,7 @@ I can architect a platform from scratch, integrate multi-agent LLM workflows, bu
 
 ---
 
-### **3️⃣ Internal ML Inference Library**
+### **4️⃣ Internal ML Inference Library**
 👉 **GitHub:** https://github.com/Pankaj4152/mylibrary  
 
 **Stack:** PyTorch, HF Transformers, FastAPI  
